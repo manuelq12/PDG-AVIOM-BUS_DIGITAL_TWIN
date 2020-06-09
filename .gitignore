@@ -38,8 +38,8 @@ ipython_config.py+
 .python-version
 
 #Datasets
-./Analisis_Exploratorio/Python/m_datagrams.csv
-./Analisis_Exploratorio/Python/buses.csv
+Analisis_Exploratorio/Python/m_datagrams.csv
+Analisis_Exploratorio/Python/buses.csv
 
 
 
