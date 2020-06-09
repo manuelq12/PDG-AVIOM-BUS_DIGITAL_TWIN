@@ -28,7 +28,7 @@ share/python-wheels/
 MANIFEST
 
 # Jupyter Notebook
-./Análisis Exploratorio/Python/ipynb_checkpoints
+./Analisis_Exploratorio/Python/ipynb_checkpoints
 
 # IPython
 profile_default/
